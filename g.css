@@ -1,0 +1,23 @@
+/* Custom Styles */
+body {
+    margin-top: 80px; /* For fixed navbar */
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+p, ul {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    margin-top: 50px;
+}
